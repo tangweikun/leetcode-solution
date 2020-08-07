@@ -1,15 +1,15 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'JS原生方法实现',
+  tagline: 'Polyfill of Javascript native method',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tangweikun', // Usually your GitHub org/user name.
+  projectName: 'leetcode-solution', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'JS原生方法实现',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -21,9 +21,9 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tangweikun/leetcode-solution',
           label: 'GitHub',
           position: 'right',
         },
@@ -33,15 +33,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Style Guide1',
               to: 'docs/',
             },
             {
               label: 'Second Doc',
-              to: 'docs/doc2/',
+              to: 'docs/every/',
             },
           ],
         },
@@ -85,7 +85,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          homePageId: 'concat',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
