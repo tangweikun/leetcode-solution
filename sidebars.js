@@ -22,6 +22,6 @@ module.exports = {
       'toLocalString',
     ],
     Function: ['apply', 'bind', 'call'],
-    Object: ['mdx'],
+    Object: ['assign', 'create', 'defineProperties', 'entries', 'is', 'keys'],
   },
 };
