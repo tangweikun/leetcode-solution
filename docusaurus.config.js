@@ -16,7 +16,13 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/polyfill',
+          activeBasePath: 'docs',
+          label: 'Polyfill',
+          position: 'left',
+        },
+        {
+          to: 'docs/polyfill',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
