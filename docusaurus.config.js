@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/html/concat',
+          to: 'docs/html/001',
           activeBasePath: 'docs/html',
           label: 'Html',
           position: 'left',
