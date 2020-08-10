@@ -16,15 +16,15 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/polyfill',
-          activeBasePath: 'docs',
+          to: 'docs/polyfill/concat',
+          activeBasePath: 'docs/polyfill',
           label: 'Polyfill',
           position: 'left',
         },
         {
-          to: 'docs/polyfill',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'docs/html/concat',
+          activeBasePath: 'docs/html',
+          label: 'Html',
           position: 'left',
         },
         { to: 'blog', label: 'Blog', position: 'left' },

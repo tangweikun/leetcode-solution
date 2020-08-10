@@ -1,4 +1,5 @@
 module.exports = {
+  html: { Array: ['html/concat', 'html/every'] },
   someSidebar: {
     Array: [
       'polyfill/concat',
