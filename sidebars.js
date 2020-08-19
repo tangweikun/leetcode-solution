@@ -40,6 +40,9 @@ module.exports = {
       'html/037',
     ],
   },
+  leetcode: {
+    leetcodeSolutions: ['leetcode/0001'],
+  },
   someSidebar: {
     Array: [
       'polyfill/concat',

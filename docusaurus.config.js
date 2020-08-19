@@ -27,6 +27,12 @@ module.exports = {
           label: 'Html',
           position: 'left',
         },
+        {
+          to: 'docs/leetcode/0001',
+          activeBasePath: 'docs/leetcode',
+          label: 'Leetcode',
+          position: 'left',
+        },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/tangweikun/leetcode-solution',
