@@ -1,7 +1,7 @@
 ---
 id: '0001'
-title: 1.Two sum
-sidebar_label: 1.Two sum
+title: 1.两数之和
+sidebar_label: 1.两数之和
 ---
 
 ### [题目](https://leetcode-cn.com/problems/two-sum/)

@@ -1,7 +1,7 @@
 ---
 id: '0002'
-title: 2.Add Two numbers
-sidebar_label: 2.Add Two numbers
+title: 2.两数相加
+sidebar_label: 2.两数相加
 ---
 
 ### [题目](https://leetcode-cn.com/problems/add-two-numbers/)
