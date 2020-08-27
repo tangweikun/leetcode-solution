@@ -33,6 +33,12 @@ module.exports = {
           label: 'Leetcode',
           position: 'left',
         },
+        {
+          to: 'docs/hooks/useWindowSize',
+          activeBasePath: 'docs/hooks',
+          label: 'hooks',
+          position: 'left',
+        },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/tangweikun/leetcode-solution',
