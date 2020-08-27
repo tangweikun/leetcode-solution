@@ -41,7 +41,18 @@ module.exports = {
     ],
   },
   leetcode: {
-    leetcodeSolutions: ['leetcode/0001', 'leetcode/0002'],
+    leetcodeSolutions: [
+      'leetcode/0001',
+      'leetcode/0002',
+      'leetcode/0003',
+      'leetcode/0004',
+      'leetcode/0005',
+      'leetcode/0006',
+      'leetcode/0007',
+      'leetcode/0008',
+      'leetcode/0009',
+      'leetcode/0010',
+    ],
   },
   someSidebar: {
     Array: [
