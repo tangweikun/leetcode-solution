@@ -59,6 +59,7 @@ module.exports = {
     'hooks/useHover',
     'hooks/useLockBodyScroll',
     'hooks/useEventListener',
+    'hooks/useTheme',
   ],
   someSidebar: {
     Array: [
