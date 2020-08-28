@@ -54,7 +54,7 @@ module.exports = {
       'leetcode/0010',
     ],
   },
-  hooks: ['hooks/useWindowSize', 'hooks/useHover'],
+  hooks: ['hooks/useWindowSize', 'hooks/useHover', 'hooks/useLockBodyScroll'],
   someSidebar: {
     Array: [
       'polyfill/concat',
