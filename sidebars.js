@@ -61,6 +61,7 @@ module.exports = {
     'hooks/useEventListener',
     'hooks/useTheme',
     'hooks/useScript',
+    'hooks/usePrevious',
   ],
   someSidebar: {
     Array: [
