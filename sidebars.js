@@ -52,6 +52,11 @@ module.exports = {
       'leetcode/0008',
       'leetcode/0009',
       'leetcode/0010',
+      'leetcode/0011',
+      'leetcode/0012',
+      'leetcode/0013',
+      'leetcode/0014',
+      'leetcode/0015',
     ],
   },
   hooks: [
